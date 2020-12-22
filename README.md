@@ -1,4 +1,4 @@
-[![Header]('./yeah.webp')]
+![plot]('./yeah.webp')
 ### Hi there 👋
 
 <!--
