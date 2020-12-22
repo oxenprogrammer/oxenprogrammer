@@ -1,4 +1,4 @@
-![](yeah.webp)
+![](emmy.gif)
 ### Hi there 👋
 
 <!--
