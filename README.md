@@ -1,4 +1,4 @@
-![plot]('./yeah.webp')
+![](yeah.webp)
 ### Hi there 👋
 
 <!--
