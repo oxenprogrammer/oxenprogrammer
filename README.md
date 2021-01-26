@@ -4,13 +4,13 @@
 <p align="center"><i><strong>"When I am working on a problem, I never think about beauty but when I have finished, if the solution is not beautiful, I know it is wrong". - R. Buckminster Fuller </strong></i></p>
 <br/>
 
-<p align="justify"><b><a>JavaScript</a></b> | <b><a>Python</a></b> | <b><a>Ruby</a></b> | <b><a>SQL</a></b> | <b><a>NoSQL</a></b><p>
+<h1 align="center"><b><a>JavaScript</a></b> | <b><a>Python</a></b> | <b><a>Ruby</a></b> | <b><a>SQL</a></b> | <b><a>NoSQL</a></b><h1>
   
-  <h3 align="center">
+  <h1 align="center">
   
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=oxenprogrammer&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
   
-  </h3>
+  </h1>
   
 <hr>
 
