@@ -1,4 +1,4 @@
-<h2 align="center">:uganda: Emanuel Okello. :uganda:</h2>
+<h1 align="center">Emanuel Okello</h1>
 
 <hr>
 <p align="center"><i><strong>"When I am working on a problem, I never think about beauty but when I have finished, if the solution is not beautiful, I know it is wrong". - R. Buckminster Fuller </strong></i></p>
