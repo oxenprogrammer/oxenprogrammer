@@ -4,11 +4,11 @@
 
 <prev>
   
-- 🌱 I’m currently `improving both my technical and professional skills` at Microverse Remote Program.
+- 🌱 I’m currently `improving both my technical and professional skills` at [Microverse](https://www.microverse.org/).
 - I have two years professional experience with Angular 2+, and one year with NodeJs.
 - 🤔 I’m looking for new opportunities especially with JavaScript and Ruby Frameworks.
 - 💬 Ask me about anything
-- 📫 How to reach me: emmy1000okello@gmail.com
+- 📫 Send me a professional email at: emmy1000okello@gmail.com
 - ⚡ Checkout my [Portfolio Website](http://emanuel-okello.me/portfolio-client/)
 
 </prev>
@@ -42,7 +42,7 @@
     There are ten kinds of people, those who understand binary and those that don't. I am a subset of the former. :grinning:
    <div align="center">
     <div><strong>My Hobbies</strong></div>
-     <div> Research 📖 Going to the Beach :beach_umbrella: Music :headphones: FIFA Pro Gamer 🖱️ :video_game</div>
+     <div> Research 📖 Going to the Beach :beach_umbrella: Music :headphones: FIFA Pro Gamer 🖱️</div>
     </div>
   </div>
   <br>
