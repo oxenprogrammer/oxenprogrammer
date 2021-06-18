@@ -5,7 +5,7 @@
 <prev>
   
 - 🌱 I’m currently `improving both my technical and professional skills` at Microverse Remote Program.
-- I have 2 years professional experience with Angular 2+ and 1 with NodeJs.
+- I have two years professional experience with Angular 2+, and one year with NodeJs.
 - 🤔 I’m looking for new opportunities especially with JavaScript and Ruby Frameworks.
 - 💬 Ask me about anything
 - 📫 How to reach me: emmy1000okello@gmail.com
