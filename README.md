@@ -1,7 +1,17 @@
 <h1 align="center">Emanuel Okello</h1>
 
-<h3 align="center"><strong>"When I am working on a problem, I never think about beauty but when I have finished, if the solution is not beautiful, I know it is wrong". - R. Buckminster Fuller </strong></h3>
-<br/>
+### Hi there 👋 I am available for remote software development opportunities
+
+<prev>
+  
+- 🌱 I’m currently `improving both my technical and professional skills` at Microverse Remote Program.
+- I have 2 years professional experience with Angular 2+ and 1 with NodeJs.
+- 🤔 I’m looking for new opportunities especially with JavaScript and Ruby Frameworks.
+- 💬 Ask me about anything
+- 📫 How to reach me: emmy1000okello@gmail.com
+- ⚡ Checkout my [Portfolio Website](http://emanuel-okello.me/portfolio-client/)
+
+</prev>
 
 <h1 align="center" color="green"><b><a>JavaScript</a></b> | <b><a>Ruby</a></b> | <b><a>Python</a></b> | <b><a>Databases</a></b> <h1>
   
@@ -29,7 +39,7 @@
   <br>
   <br>
   <div align="center">
-    There are 10 kind of people, those who understand binary and those that don't. I am a subset of the former. :grinning:
+    There are ten kinds of people, those who understand binary and those that don't. I am a subset of the former. :grinning:
    <div align="center">
     <div><strong>My Hobbies</strong></div>
      <div> Research 📖 Going to the Beach :beach_umbrella: Music :headphones: FIFA Pro Gamer 🖱️ :video_game</div>
@@ -37,7 +47,7 @@
   </div>
   <br>
   <br>
-<p align="center">🟢Currently Available for Professional Oportunities👨‍💻</p>
+<p align="center">I'm a social nerd as well. It will be nice to connect professionally</p>
 <p align="center">
   <a href="https://github.com/oxenprogrammer">
     <img src="https://img.shields.io/github/followers/oxenprogrammer?color=%23181717&label=oxenprogrammer&logo=github&logoColor=%23181717&style=for-the-badge" alt="github badge">
