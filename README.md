@@ -9,7 +9,7 @@
 - 🤔 I’m looking for new opportunities especially with JavaScript and Ruby Frameworks.
 - 💬 Ask me about anything
 - 📫 Send me a professional email at: emmy1000okello@gmail.com
-- ⚡ Checkout my [Portfolio Website](emanuel-okello.me)
+- ⚡ Checkout my [Portfolio Website](https://www.emanuel-okello.me)
 
 </prev>
 
