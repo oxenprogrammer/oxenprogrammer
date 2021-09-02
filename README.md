@@ -4,10 +4,9 @@
 
 <prev>
   
-- 🌱 I’m currently `improving both my technical and professional skills` at [Microverse](https://www.microverse.org/).
-- I have two years professional experience with Angular 2+, and one year with NodeJs.
+- 🌱 I’m currently `a part time Technical Support Engineer` at [Microverse](https://www.microverse.org/).
+- I have two years professional experience with the MEAN Stack using TypeScript on the server-side as well.
 - 🤔 I’m looking for new opportunities especially with JavaScript and Ruby Frameworks.
-- 💬 Ask me about anything
 - 📫 Send me a professional email at: emmy1000okello@gmail.com
 - ⚡ Checkout my [Portfolio Website](https://www.emanuel-okello.me)
 
