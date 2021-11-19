@@ -1,11 +1,11 @@
 <h1 align="center">Emanuel Okello</h1>
 
-### Hi there 👋 I am available for remote software development opportunities
+### Hi there 👋
 
 <prev>
   
 - 🌱 I’m currently `a Technical Support Engineer` at [Microverse](https://www.microverse.org/).
-- I have two years professional experience with Angular and ReactJs using TypeScript on the server-side as well.
+- I have 2+ years of professional experience with Angular and ReactJs using TypeScript on the server-side as well.
 - :man_technologist: Tutor young minds between 5 to 12 years coding using simple programs. They're the future.  
 - 🤔 Open to exciting professional opportunities especially with JavaScript and Ruby Frameworks.
 - 📫 Send me a professional email at: emmy1000okello@gmail.com
