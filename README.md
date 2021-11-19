@@ -7,7 +7,7 @@
 - 🌱 I’m currently `a Technical Support Engineer` at [Microverse](https://www.microverse.org/).
 - I have two years professional experience with Angular and ReactJs using TypeScript on the server-side as well.
 - :man_technologist: Tutor young minds between 5 to 12 years coding using simple programs. They're the future.  
-- 🤔 I’m looking for new opportunities especially with JavaScript and Ruby Frameworks.
+- 🤔 Open to exciting professional opportunities especially with JavaScript and Ruby Frameworks.
 - 📫 Send me a professional email at: emmy1000okello@gmail.com
 - ⚡ Checkout my [Portfolio Website](https://www.emanuel-okello.me)
 
