@@ -5,8 +5,8 @@
 <prev>
   
 - 🌱 I’m currently `a JavaScript Developer` at [GitStart](https://www.gitstart.dev/).
-- I have 3+ years of professional experience with Angular and ReactJs using TypeScript on the server-side as well.
-- ⚡ Checkout my [Portfolio Website](https://www.emanuel-okello.me)
+- I have 4+ years of professional experience building web applications.
+- ⚡ Checkout my [Portfolio Website](https://www.emanuel-okello.me) (currently down) :face_with_head_bandage:
 
 </prev>
 
