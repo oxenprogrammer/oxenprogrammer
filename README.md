@@ -4,7 +4,7 @@
  <div align="center"> 
   <prev>
     🌱 I’m currently a <strong>JavaScript Developer</strong> at <a href="https://www.gitstart.dev/">GitStart</a>.<br>
-      ⚡ 4+ years of professional experience building web applications.
+      ⚡ 3+ years of professional experience building web applications.
     </ol>
   </prev>
 </div>
