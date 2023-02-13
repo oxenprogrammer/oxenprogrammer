@@ -3,17 +3,10 @@
 
  <div align="center"> 
   <prev>
-    🌱 I’m currently a <strong>JavaScript Developer</strong> at <a href="https://www.gitstart.dev/">GitStart</a>.<br>
-      ⚡ 3+ years of professional experience building web applications.
+    🌱 Focusing on <strong>JavaScript/TypeScript</strong> ecosystem<br>
     </ol>
   </prev>
 </div>
-  <div align="center"> 
-    <h3>Programming languages</h3>
-    <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript">
-    <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="ReactJs">
-    <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="NodeJs">
-  </div>
   <br>
   <div align="center">
     There are 10 kinds of people, those who understand binary and those that don't. I am a subset of the former. :grinning:
