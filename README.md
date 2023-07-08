@@ -1,5 +1,5 @@
 <h2 align="center">Emanuel Okello</h2>
-<h3 align="center">The Secret lies mostly in the Private Repos</h3>
+<h3 align="center">Once a student, always a student</h3>
 
  <div align="center"> 
   <prev>
