@@ -12,7 +12,7 @@
     There are 10 kinds of people, those who understand binary and those that don't. I am a subset of the former. :grinning:
    <div align="center">
     <div><strong>My Hobbies</strong></div>
-     <div> Research 📖 Going to the Beach :beach_umbrella: Music :headphones: FIFA Pro Gamer 🖱️</div>
+     <div> Research 📖 Cooking 👨‍🍳 🥘 Music :headphones: FIFA Pro Gamer 🖱️</div>
     </div>
   </div>
 <h3 align="center">Social Media</h3>
