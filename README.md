@@ -3,7 +3,7 @@
 
  <div align="center"> 
   <prev>
-    🌱 Focusing on <strong>JavaScript/TypeScript</strong> ecosystem<br>
+    🌱 Focusing on <strong>JavaScript/TypeScript and Java</strong> ecosystem<br>
     </ol>
   </prev>
 </div>
